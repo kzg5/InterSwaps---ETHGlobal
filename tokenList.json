@@ -1,0 +1,37 @@
+[
+    {
+        "ticker": "ALEO (Aleo)",
+        "img": "https://developer.aleo.org/img/logo-128x128.png",
+        "name": "Aleo",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18
+    },
+    {
+        "ticker": "ETH (Scroll)",
+        "img": "https://scroll.io/logo.png",
+        "name": "Scroll",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18
+    },
+    {
+        "ticker": "XDC (XDC)",
+        "img": "https://xinfin.org/assets/images/brand-assets/xdc-icon.png",
+        "name": "XDC",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18
+    },
+    {
+        "ticker": "ETH (ZKSync)",
+        "img": "https://matterlabs.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb761573a-a90c-49f2-936c-b752cbb9142b%2Ficon_zkSync_Era_round.png?table=block&id=750bb7b1-f3d1-4ebe-9f53-9a86901c4a1c&spaceId=703ee435-9e35-441a-b595-a8f42972ac1a&width=250&userId=&cache=v2",
+        "name": "ZKSync",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18
+    },
+    {
+        "ticker": "ETH (Gnosis)",
+        "img": "https://gnosisscan.io/images/svg/brands/main.svg?v=23.6.5.2",
+        "name": "Gnosis",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18
+    }
+]
