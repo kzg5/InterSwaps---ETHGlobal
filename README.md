@@ -1,4 +1,4 @@
-# Getting Started with our AtomicK protocol 
+# Getting Started with our protocol
 
 ## Available Scripts
 
